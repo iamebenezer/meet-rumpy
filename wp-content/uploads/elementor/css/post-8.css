@@ -1,0 +1,2209 @@
+.elementor-8 .elementor-element.elementor-element-6bfbb3f {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    --margin-block-start: 3%;
+    --margin-block-end: 0%;
+    --margin-inline-start: 0%;
+    --margin-inline-end: 0%;
+    --padding-block-start: 20px;
+    --padding-block-end: 20px;
+    --padding-inline-start: 20px;
+    --padding-inline-end: 20px;
+    --z-index: 1;
+}
+
+.elementor-8 .elementor-element.elementor-element-81f4d39 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: center;
+    --align-items: center;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 1px 1px 6px 1px;
+    --border-block-start-width: 1px;
+    --border-inline-end-width: 1px;
+    --border-block-end-width: 6px;
+    --border-inline-start-width: 1px;
+    border-color: #000000;
+    --border-color: #000000;
+    --border-radius: 20px 20px 20px 20px;
+    box-shadow: 0px -10px 10px 5px rgba(0, 0, 0, 0.44) inset;
+}
+
+.elementor-8 .elementor-element.elementor-element-81f4d39:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-81f4d39>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFFFC;
+}
+
+.elementor-8 .elementor-element.elementor-element-81f4d39,
+.elementor-8 .elementor-element.elementor-element-81f4d39::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-f234b63 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-f234b63.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-8 .elementor-element.elementor-element-18d812d {
+    --grid-template-columns: repeat(0, auto);
+    --grid-column-gap: 5px;
+    --grid-row-gap: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-18d812d .elementor-widget-container {
+    text-align: left;
+}
+
+.elementor-8 .elementor-element.elementor-element-18d812d .elementor-social-icon {
+    background-color: darkblue;
+    border-style: solid;
+    border-width: 1px 1px 6px 5px;
+    border-color: #000000;
+}
+
+.elementor-8 .elementor-element.elementor-element-18d812d .elementor-social-icon i {
+    color: #FFFFFF;
+}
+
+.elementor-8 .elementor-element.elementor-element-18d812d .elementor-social-icon svg {
+    fill: #FFFFFF;
+}
+
+.elementor-8 .elementor-element.elementor-element-18d812d .elementor-icon {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-8 .elementor-element.elementor-element-223e9b9 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-223e9b9.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-8 .elementor-element.elementor-element-ad91c88 img {
+    width: 100%;
+    border-style: solid;
+    border-width: 1px 3px 6px 3px;
+    border-color: #000000;
+    border-radius: 10000px 10000px 10000px 10000px;
+    box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.5);
+}
+
+.elementor-8 .elementor-element.elementor-element-ad91c88>.elementor-widget-container {
+    margin: -40% 0% -40% 0%;
+    padding: 0% 0% 0% 0%;
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #DDDDDD 0%, #00DAFF 100%);
+    border-radius: 50000px 50000px 50000px 50000px;
+}
+
+.elementor-8 .elementor-element.elementor-element-ad91c88 {
+    width: var( --container-widget-width, 30%);
+    max-width: 30%;
+    --container-widget-width: 30%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-8 .elementor-element.elementor-element-ad91c88.elementor-element {
+    --align-self: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-46838cf {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-92164fe .elementor-button {
+    font-family: "Bangers", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: darkblue;
+    border-style: solid;
+    border-width: 1px 4px 6px 1px;
+    border-color: #000000;
+    border-radius: 10px 10px 10px 10px;
+    padding: 15px 15px 15px 15px;
+}
+
+.elementor-8 .elementor-element.elementor-element-66816b1 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --align-items: center;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-ad90011 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-dcfa53b .elementor-button {
+    font-family: "Slackey", Sans-serif;
+    font-size: 19px;
+    font-weight: 500;
+    fill: #000000;
+    color: #000000;
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #FFFFFF52 0%, #FFFFFF1C 100%);
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #FFFFFF59;
+    border-radius: 50px 50px 50px 50px;
+    box-shadow: 0px 0px 10px 0px rgba(255, 255, 255, 0.5) inset;
+    padding: 15px 15px 15px 15px;
+}
+
+.elementor-8 .elementor-element.elementor-element-baa6055 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Skranji", Sans-serif;
+    font-size: 108px;
+    font-weight: 600;
+    -webkit-text-stroke-width: 7px;
+    stroke-width: 7px;
+    -webkit-text-stroke-color: #000;
+    stroke: #000;
+}
+
+.elementor-8 .elementor-element.elementor-element-c7b35ff {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-80b6bfe .elementor-button {
+    font-family: "Skranji", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: darkblue;
+    border-style: solid;
+    border-width: 1px 1px 6px 5px;
+    border-color: #000000;
+    border-radius: 10px 10px 10px 10px;
+    padding: 20px 20px 20px 20px;
+}
+
+.elementor-8 .elementor-element.elementor-element-24eaf5f .elementor-button {
+    font-family: "Skranji", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    fill: #00000073;
+    color: #00000073;
+    background-color: #FFFFFF47;
+    border-style: solid;
+    border-width: 1px 1px 6px 5px;
+    border-color: #0000004D;
+    border-radius: 10px 10px 10px 10px;
+    padding: 20px 20px 20px 20px;
+}
+
+.elementor-8 .elementor-element.elementor-element-1a1515a {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-586b445 img {
+    width: 100%;
+}
+
+.elementor-8 .elementor-element.elementor-element-95332e8 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-31bdccc {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: center;
+    --align-items: center;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 1px 1px 6px 1px;
+    --border-block-start-width: 1px;
+    --border-inline-end-width: 1px;
+    --border-block-end-width: 6px;
+    --border-inline-start-width: 1px;
+    border-color: #000000;
+    --border-color: #000000;
+    --border-radius: 20px 20px 20px 20px;
+    box-shadow: 0px -10px 10px 5px rgba(0, 0, 0, 0.44) inset;
+    --padding-block-start: 20px;
+    --padding-block-end: 20px;
+    --padding-inline-start: 20px;
+    --padding-inline-end: 20px;
+}
+
+.elementor-8 .elementor-element.elementor-element-31bdccc:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-31bdccc>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFFFC;
+}
+
+.elementor-8 .elementor-element.elementor-element-31bdccc,
+.elementor-8 .elementor-element.elementor-element-31bdccc::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-5526270 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-5526270.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-8 .elementor-element.elementor-element-32275a8 .elementor-heading-title {
+    color: #000000;
+    font-family: "Skranji", Sans-serif;
+    font-size: 41px;
+    font-weight: 600;
+}
+
+.elementor-8 .elementor-element.elementor-element-3ed9738 .elementor-heading-title {
+    color: #0000005C;
+    font-family: "Skranji", Sans-serif;
+    font-weight: 600;
+}
+
+.elementor-8 .elementor-element.elementor-element-3ed9738>.elementor-widget-container {
+    margin: -13px 0px 0px 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-8e29989 .elementor-button {
+    font-family: "Skranji", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: darkblue;
+    border-style: solid;
+    border-width: 1px 1px 6px 5px;
+    border-color: #000000;
+    border-radius: 10px 10px 10px 10px;
+    padding: 20px 20px 20px 20px;
+}
+
+.elementor-8 .elementor-element.elementor-element-8e29989 {
+    width: var( --container-widget-width, 53%);
+    max-width: 53%;
+    --container-widget-width: 53%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-8 .elementor-element.elementor-element-650ddf0 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-521c10e {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-521c10e .elementor-heading-title {
+    color: #000000;
+    font-family: "Skranji", Sans-serif;
+    font-size: 21px;
+    font-weight: 600;
+}
+
+.elementor-8 .elementor-element.elementor-element-c0474a0 .elementor-countdown-wrapper {
+    max-width: 100%;
+}
+
+.elementor-8 .elementor-element.elementor-element-c0474a0 .elementor-countdown-item {
+    background-color: darkblue;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #424242;
+    border-radius: 10px 10px 10px 10px;
+    padding: 15px 15px 15px 15px;
+}
+
+body:not(.rtl) .elementor-8 .elementor-element.elementor-element-c0474a0 .elementor-countdown-item:not(:first-of-type) {
+    margin-left: calc( 10px/2);
+}
+
+body:not(.rtl) .elementor-8 .elementor-element.elementor-element-c0474a0 .elementor-countdown-item:not(:last-of-type) {
+    margin-right: calc( 10px/2);
+}
+
+body.rtl .elementor-8 .elementor-element.elementor-element-c0474a0 .elementor-countdown-item:not(:first-of-type) {
+    margin-right: calc( 10px/2);
+}
+
+body.rtl .elementor-8 .elementor-element.elementor-element-c0474a0 .elementor-countdown-item:not(:last-of-type) {
+    margin-left: calc( 10px/2);
+}
+
+.elementor-8 .elementor-element.elementor-element-c0474a0 .elementor-countdown-digits {
+    color: #FFFFFF;
+    font-family: "Skranji", Sans-serif;
+    font-size: 57px;
+    font-weight: 800;
+}
+
+.elementor-8 .elementor-element.elementor-element-c0474a0 .elementor-countdown-label {
+    color: #FFFFFF57;
+    font-family: "Skranji", Sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+}
+
+.elementor-8 .elementor-element.elementor-element-c8382ba {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-42384ff {
+    --spacer-size: 50px;
+}
+
+.elementor-8 .elementor-element.elementor-element-3823a9f {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-3823a9f .elementor-heading-title {
+    color: #000000;
+    font-family: "Skranji", Sans-serif;
+    font-size: 41px;
+    font-weight: 600;
+}
+
+.elementor-8 .elementor-element.elementor-element-9b43c3d {
+    --display: grid;
+    --e-con-grid-template-columns: repeat(4, 1fr);
+    --e-con-grid-template-rows: repeat(1, 1fr);
+    --gap: 50px 50px;
+    --grid-auto-flow: row;
+    --justify-items: center;
+    --align-items: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-50dd219 img {
+    width: 100%;
+}
+
+.elementor-8 .elementor-element.elementor-element-4dbf050 img {
+    width: 100%;
+}
+
+.elementor-8 .elementor-element.elementor-element-2430008 img {
+    width: 100%;
+}
+
+.elementor-8 .elementor-element.elementor-element-2430008>.elementor-widget-container {
+    --e-transform-scale: 2;
+}
+
+.elementor-8 .elementor-element.elementor-element-53ff926 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-1e861c1 {
+    --spacer-size: 50px;
+}
+
+.elementor-8 .elementor-element.elementor-element-a1a011e img {
+    width: 5%;
+}
+
+.elementor-8 .elementor-element.elementor-element-f1dbc36 {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-f1dbc36 .elementor-heading-title {
+    color: #000000;
+    font-family: "Skranji", Sans-serif;
+    font-size: 41px;
+    font-weight: 600;
+}
+
+.elementor-8 .elementor-element.elementor-element-55c4685 {
+    text-align: center;
+    width: var( --container-widget-width, 70%);
+    max-width: 70%;
+    --container-widget-width: 70%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-8 .elementor-element.elementor-element-55c4685 .elementor-heading-title {
+    color: #000000BD;
+    font-family: "Skranji", Sans-serif;
+    font-size: 24px;
+    font-weight: 100;
+    line-height: 40px;
+}
+
+.elementor-8 .elementor-element.elementor-element-55c4685.elementor-element {
+    --align-self: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-f6832e2 {
+    --display: grid;
+    --e-con-grid-template-columns: repeat(2, 1fr);
+    --e-con-grid-template-rows: repeat(1, 1fr);
+    --grid-auto-flow: row;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-99adfa3 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --justify-content: center;
+    --align-items: center;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 1px 1px 6px 1px;
+    --border-block-start-width: 1px;
+    --border-inline-end-width: 1px;
+    --border-block-end-width: 6px;
+    --border-inline-start-width: 1px;
+    border-color: #000000;
+    --border-color: #000000;
+    --border-radius: 20px 20px 20px 20px;
+    box-shadow: 0px -10px 10px 5px rgba(0, 0, 0, 0.44) inset;
+    --padding-block-start: 20px;
+    --padding-block-end: 20px;
+    --padding-inline-start: 20px;
+    --padding-inline-end: 20px;
+}
+
+.elementor-8 .elementor-element.elementor-element-99adfa3:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-99adfa3>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFFFC;
+}
+
+.elementor-8 .elementor-element.elementor-element-99adfa3,
+.elementor-8 .elementor-element.elementor-element-99adfa3::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-b120a90 .elementor-icon-list-icon i {
+    color: #2FFA00;
+    transition: color 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-b120a90 .elementor-icon-list-icon svg {
+    fill: #2FFA00;
+    transition: fill 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-b120a90 {
+    --e-icon-list-icon-size: 70px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-b120a90 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-8 .elementor-element.elementor-element-b120a90 .elementor-icon-list-item>a {
+    font-family: "Skranji", Sans-serif;
+    font-size: 62px;
+    font-weight: 400;
+}
+
+.elementor-8 .elementor-element.elementor-element-b120a90 .elementor-icon-list-text {
+    color: #000000;
+    transition: color 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-00e54b9 img {
+    width: 42%;
+}
+
+.elementor-8 .elementor-element.elementor-element-00e54b9>.elementor-widget-container {
+    margin: -40px 0px 0px 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-d2df878 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --justify-content: center;
+    --align-items: center;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 1px 1px 6px 1px;
+    --border-block-start-width: 1px;
+    --border-inline-end-width: 1px;
+    --border-block-end-width: 6px;
+    --border-inline-start-width: 1px;
+    border-color: #000000;
+    --border-color: #000000;
+    --border-radius: 20px 20px 20px 20px;
+    box-shadow: 0px -10px 10px 5px rgba(0, 0, 0, 0.44) inset;
+    --padding-block-start: 20px;
+    --padding-block-end: 20px;
+    --padding-inline-start: 20px;
+    --padding-inline-end: 20px;
+}
+
+.elementor-8 .elementor-element.elementor-element-d2df878:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-d2df878>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFFFC;
+}
+
+.elementor-8 .elementor-element.elementor-element-d2df878,
+.elementor-8 .elementor-element.elementor-element-d2df878::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-89e7830 .elementor-icon-list-icon i {
+    color: #FA0000;
+    transition: color 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-89e7830 .elementor-icon-list-icon svg {
+    fill: #FA0000;
+    transition: fill 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-89e7830 {
+    --e-icon-list-icon-size: 70px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-89e7830 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-8 .elementor-element.elementor-element-89e7830 .elementor-icon-list-item>a {
+    font-family: "Skranji", Sans-serif;
+    font-size: 62px;
+    font-weight: 400;
+}
+
+.elementor-8 .elementor-element.elementor-element-89e7830 .elementor-icon-list-text {
+    color: #000000;
+    transition: color 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-5a65592 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-9126e08 {
+    --spacer-size: 50px;
+}
+
+.elementor-8 .elementor-element.elementor-element-008a77d {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-008a77d .elementor-heading-title {
+    color: #000000;
+    font-family: "Skranji", Sans-serif;
+    font-size: 41px;
+    font-weight: 600;
+}
+
+.elementor-8 .elementor-element.elementor-element-ef70145>.elementor-widget-container {
+    margin: 7% 0% 0% 0%;
+    --e-transform-scale: 1.3;
+}
+
+.elementor-8 .elementor-element.elementor-element-bf552ff {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-bf552ff .elementor-heading-title {
+    color: #000000;
+    font-family: "Skranji", Sans-serif;
+    font-size: 41px;
+    font-weight: 600;
+}
+
+.elementor-8 .elementor-element.elementor-element-7c5a170 {
+    --display: grid;
+    --e-con-grid-template-columns: repeat(4, 1fr);
+    --e-con-grid-template-rows: repeat(1, 1fr);
+    --grid-auto-flow: row;
+    --align-items: stretch;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-68969ca {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --justify-content: flex-start;
+    --align-items: center;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 1px 1px 6px 1px;
+    --border-block-start-width: 1px;
+    --border-inline-end-width: 1px;
+    --border-block-end-width: 6px;
+    --border-inline-start-width: 1px;
+    border-color: #000000;
+    --border-color: #000000;
+    --border-radius: 20px 20px 20px 20px;
+    box-shadow: 0px -10px 10px 5px rgba(0, 0, 0, 0.44) inset;
+    --padding-block-start: 20px;
+    --padding-block-end: 20px;
+    --padding-inline-start: 20px;
+    --padding-inline-end: 20px;
+}
+
+.elementor-8 .elementor-element.elementor-element-68969ca:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-68969ca>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFFFC;
+}
+
+.elementor-8 .elementor-element.elementor-element-68969ca,
+.elementor-8 .elementor-element.elementor-element-68969ca::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-ac6ebb3 {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-ac6ebb3 .elementor-heading-title {
+    color: #000000;
+    font-family: "Skranji", Sans-serif;
+    font-size: 41px;
+    font-weight: 600;
+}
+
+.elementor-8 .elementor-element.elementor-element-09b17f9 {
+    text-align: center;
+    width: var( --container-widget-width, 100%);
+    max-width: 100%;
+    --container-widget-width: 100%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-8 .elementor-element.elementor-element-09b17f9 .elementor-heading-title {
+    color: #000000BD;
+    font-family: "Skranji", Sans-serif;
+    font-size: 24px;
+    font-weight: 100;
+    line-height: 40px;
+}
+
+.elementor-8 .elementor-element.elementor-element-09b17f9.elementor-element {
+    --align-self: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-62d17ef {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --justify-content: flex-start;
+    --align-items: center;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 1px 1px 6px 1px;
+    --border-block-start-width: 1px;
+    --border-inline-end-width: 1px;
+    --border-block-end-width: 6px;
+    --border-inline-start-width: 1px;
+    border-color: #000000;
+    --border-color: #000000;
+    --border-radius: 20px 20px 20px 20px;
+    box-shadow: 0px -10px 10px 5px rgba(0, 0, 0, 0.44) inset;
+    --padding-block-start: 20px;
+    --padding-block-end: 20px;
+    --padding-inline-start: 20px;
+    --padding-inline-end: 20px;
+}
+
+.elementor-8 .elementor-element.elementor-element-62d17ef:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-62d17ef>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFFFC;
+}
+
+.elementor-8 .elementor-element.elementor-element-62d17ef,
+.elementor-8 .elementor-element.elementor-element-62d17ef::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-798b028 {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-798b028 .elementor-heading-title {
+    color: #000000;
+    font-family: "Skranji", Sans-serif;
+    font-size: 41px;
+    font-weight: 600;
+}
+
+.elementor-8 .elementor-element.elementor-element-f27633b {
+    text-align: center;
+    width: var( --container-widget-width, 100%);
+    max-width: 100%;
+    --container-widget-width: 100%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-8 .elementor-element.elementor-element-f27633b .elementor-heading-title {
+    color: #000000BD;
+    font-family: "Skranji", Sans-serif;
+    font-size: 24px;
+    font-weight: 100;
+    line-height: 40px;
+}
+
+.elementor-8 .elementor-element.elementor-element-f27633b.elementor-element {
+    --align-self: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-2b1a5d8 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --justify-content: flex-start;
+    --align-items: center;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 1px 1px 6px 1px;
+    --border-block-start-width: 1px;
+    --border-inline-end-width: 1px;
+    --border-block-end-width: 6px;
+    --border-inline-start-width: 1px;
+    border-color: #000000;
+    --border-color: #000000;
+    --border-radius: 20px 20px 20px 20px;
+    box-shadow: 0px -10px 10px 5px rgba(0, 0, 0, 0.44) inset;
+    --padding-block-start: 20px;
+    --padding-block-end: 20px;
+    --padding-inline-start: 20px;
+    --padding-inline-end: 20px;
+}
+
+.elementor-8 .elementor-element.elementor-element-2b1a5d8:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-2b1a5d8>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFFFC;
+}
+
+.elementor-8 .elementor-element.elementor-element-2b1a5d8,
+.elementor-8 .elementor-element.elementor-element-2b1a5d8::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-f743c6b {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-f743c6b .elementor-heading-title {
+    color: #000000;
+    font-family: "Skranji", Sans-serif;
+    font-size: 41px;
+    font-weight: 600;
+}
+
+.elementor-8 .elementor-element.elementor-element-25df3ff {
+    text-align: center;
+    width: var( --container-widget-width, 100%);
+    max-width: 100%;
+    --container-widget-width: 100%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-8 .elementor-element.elementor-element-25df3ff .elementor-heading-title {
+    color: #000000BD;
+    font-family: "Skranji", Sans-serif;
+    font-size: 24px;
+    font-weight: 100;
+    line-height: 40px;
+}
+
+.elementor-8 .elementor-element.elementor-element-25df3ff.elementor-element {
+    --align-self: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-4a6831b {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --justify-content: flex-start;
+    --align-items: center;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 1px 1px 6px 1px;
+    --border-block-start-width: 1px;
+    --border-inline-end-width: 1px;
+    --border-block-end-width: 6px;
+    --border-inline-start-width: 1px;
+    border-color: #000000;
+    --border-color: #000000;
+    --border-radius: 20px 20px 20px 20px;
+    box-shadow: 0px -10px 10px 5px rgba(0, 0, 0, 0.44) inset;
+    --padding-block-start: 20px;
+    --padding-block-end: 20px;
+    --padding-inline-start: 20px;
+    --padding-inline-end: 20px;
+}
+
+.elementor-8 .elementor-element.elementor-element-4a6831b:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-4a6831b>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFFFC;
+}
+
+.elementor-8 .elementor-element.elementor-element-4a6831b,
+.elementor-8 .elementor-element.elementor-element-4a6831b::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-ccbbd42 {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-ccbbd42 .elementor-heading-title {
+    color: #000000;
+    font-family: "Skranji", Sans-serif;
+    font-size: 41px;
+    font-weight: 600;
+}
+
+.elementor-8 .elementor-element.elementor-element-a3d61a4 {
+    text-align: center;
+    width: var( --container-widget-width, 100%);
+    max-width: 100%;
+    --container-widget-width: 100%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-8 .elementor-element.elementor-element-a3d61a4 .elementor-heading-title {
+    color: #000000BD;
+    font-family: "Skranji", Sans-serif;
+    font-size: 24px;
+    font-weight: 100;
+    line-height: 40px;
+}
+
+.elementor-8 .elementor-element.elementor-element-a3d61a4.elementor-element {
+    --align-self: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-22f7bef {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    --margin-block-start: 0100px;
+    --margin-block-end: 0100px;
+    --margin-inline-start: 0px;
+    --margin-inline-end: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-ab9a7a7 .elementor-button {
+    font-family: "Slackey", Sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    fill: #000000;
+    color: #000000;
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #FFFFFF52 0%, #FFFFFF1C 100%);
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #FFFFFF59;
+    border-radius: 50px 50px 50px 50px;
+    box-shadow: 0px 0px 10px 0px rgba(255, 255, 255, 0.5) inset;
+    padding: 10px 10px 10px 10px;
+}
+
+.elementor-8 .elementor-element.elementor-element-e4c04a4 {
+    text-align: left;
+}
+
+.elementor-8 .elementor-element.elementor-element-e4c04a4 .elementor-heading-title {
+    color: #000000;
+    font-family: "Skranji", Sans-serif;
+    font-size: 41px;
+    font-weight: 600;
+}
+
+.elementor-8 .elementor-element.elementor-element-95ac229 {
+    --display: grid;
+    --e-con-grid-template-columns: repeat(2, 1fr);
+    --e-con-grid-template-rows: repeat(1, 1fr);
+    --grid-auto-flow: row;
+    --background-transition: 0.3s;
+    --margin-block-start: 0%;
+    --margin-block-end: -15%;
+    --margin-inline-start: 0%;
+    --margin-inline-end: 0%;
+}
+
+.elementor-8 .elementor-element.elementor-element-1895a8e {
+    --spacer-size: 50px;
+}
+
+.elementor-8 .elementor-element.elementor-element-0afd64b {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-8d2d2b0 {
+    text-align: left;
+}
+
+.elementor-8 .elementor-element.elementor-element-8d2d2b0 .elementor-heading-title {
+    color: #000000;
+    font-family: "Skranji", Sans-serif;
+    font-size: 41px;
+    font-weight: 600;
+}
+
+.elementor-8 .elementor-element.elementor-element-bc27cc8 {
+    text-align: left;
+}
+
+.elementor-8 .elementor-element.elementor-element-bc27cc8 .elementor-heading-title {
+    color: darkblue;
+    font-family: "Skranji", Sans-serif;
+    font-size: 41px;
+    font-weight: 600;
+}
+
+.elementor-8 .elementor-element.elementor-element-ee6af30 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: center;
+    --align-items: center;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    --border-radius: 10px 10px 0px 0px;
+    --margin-block-start: 50px;
+    --margin-block-end: 0px;
+    --margin-inline-start: 0px;
+    --margin-inline-end: 0px;
+    --padding-block-start: 20px;
+    --padding-block-end: 050px;
+    --padding-inline-start: 020px;
+    --padding-inline-end: 20px;
+}
+
+.elementor-8 .elementor-element.elementor-element-f4bc87e {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-f4bc87e.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-8 .elementor-element.elementor-element-ef90ad5 img {
+    width: 100%;
+}
+
+.elementor-8 .elementor-element.elementor-element-ef90ad5>.elementor-widget-container {
+    margin: -12% 0% -12% 0%;
+}
+
+.elementor-8 .elementor-element.elementor-element-ef90ad5:not( .elementor-widget-image) .elementor-widget-container {
+    -webkit-mask-image: url(https://boof.wtf/wp-content/plugins/elementor/assets//mask-shapes/circle.svg );
+    -webkit-mask-size: 76%;
+    -webkit-mask-position: center center;
+    -webkit-mask-repeat: no-repeat;
+}
+
+.elementor-8 .elementor-element.elementor-element-ef90ad5.elementor-widget-image .elementor-widget-container img {
+    -webkit-mask-image: url(https://boof.wtf/wp-content/plugins/elementor/assets//mask-shapes/circle.svg );
+    -webkit-mask-size: 76%;
+    -webkit-mask-position: center center;
+    -webkit-mask-repeat: no-repeat;
+}
+
+.elementor-8 .elementor-element.elementor-element-966a3a9 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --gap: 20px 20px;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-966a3a9.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-8 .elementor-element.elementor-element-423ec67 .elementor-icon-list-icon i {
+    color: #fb5444;
+    transition: color 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-423ec67 .elementor-icon-list-icon svg {
+    fill: #fb5444;
+    transition: fill 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-423ec67 {
+    --e-icon-list-icon-size: 14px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-423ec67 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-8 .elementor-element.elementor-element-423ec67 .elementor-icon-list-item>a {
+    font-family: "Skranji", Sans-serif;
+    font-weight: 400;
+}
+
+.elementor-8 .elementor-element.elementor-element-423ec67 .elementor-icon-list-text {
+    color: #000000;
+    transition: color 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-da82db5 {
+    text-align: left;
+    font-family: "Skranji", Sans-serif;
+    font-size: 13px;
+    font-weight: 100;
+    width: var( --container-widget-width, 100%);
+    max-width: 100%;
+    --container-widget-width: 100%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-8 .elementor-element.elementor-element-da82db5.elementor-element {
+    --align-self: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-c0a0e2d .elementor-icon-list-icon i {
+    color: #44dbfb;
+    transition: color 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-c0a0e2d .elementor-icon-list-icon svg {
+    fill: #44dbfb;
+    transition: fill 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-c0a0e2d {
+    --e-icon-list-icon-size: 14px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-c0a0e2d .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-8 .elementor-element.elementor-element-c0a0e2d .elementor-icon-list-item>a {
+    font-family: "Skranji", Sans-serif;
+    font-weight: 400;
+}
+
+.elementor-8 .elementor-element.elementor-element-c0a0e2d .elementor-icon-list-text {
+    color: #000000;
+    transition: color 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-e4ddd47 {
+    text-align: left;
+    font-family: "Skranji", Sans-serif;
+    font-size: 13px;
+    font-weight: 100;
+    width: var( --container-widget-width, 100%);
+    max-width: 100%;
+    --container-widget-width: 100%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-8 .elementor-element.elementor-element-e4ddd47.elementor-element {
+    --align-self: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-113f424 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --gap: 20px 20px;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-113f424.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-8 .elementor-element.elementor-element-ee35fc1 .elementor-icon-list-icon i {
+    color: #03FDAC;
+    transition: color 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-ee35fc1 .elementor-icon-list-icon svg {
+    fill: #03FDAC;
+    transition: fill 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-ee35fc1 {
+    --e-icon-list-icon-size: 14px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-ee35fc1 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-8 .elementor-element.elementor-element-ee35fc1 .elementor-icon-list-item>a {
+    font-family: "Skranji", Sans-serif;
+    font-weight: 400;
+}
+
+.elementor-8 .elementor-element.elementor-element-ee35fc1 .elementor-icon-list-text {
+    color: #000000;
+    transition: color 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-e909998 {
+    text-align: left;
+    font-family: "Skranji", Sans-serif;
+    font-size: 13px;
+    font-weight: 100;
+    width: var( --container-widget-width, 100%);
+    max-width: 100%;
+    --container-widget-width: 100%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-8 .elementor-element.elementor-element-e909998.elementor-element {
+    --align-self: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-9d59a2b .elementor-icon-list-icon i {
+    color: #fb5444;
+    transition: color 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-9d59a2b .elementor-icon-list-icon svg {
+    fill: #fb5444;
+    transition: fill 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-9d59a2b {
+    --e-icon-list-icon-size: 14px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-9d59a2b .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-8 .elementor-element.elementor-element-9d59a2b .elementor-icon-list-item>a {
+    font-family: "Skranji", Sans-serif;
+    font-weight: 400;
+}
+
+.elementor-8 .elementor-element.elementor-element-9d59a2b .elementor-icon-list-text {
+    color: #000000;
+    transition: color 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-e270298 {
+    text-align: left;
+    font-family: "Skranji", Sans-serif;
+    font-size: 13px;
+    font-weight: 100;
+    width: var( --container-widget-width, 100%);
+    max-width: 100%;
+    --container-widget-width: 100%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-8 .elementor-element.elementor-element-e270298.elementor-element {
+    --align-self: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-09e30e9 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: center;
+    --align-items: center;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    --border-radius: 10px 10px 0px 0px;
+    --margin-block-start: -16%;
+    --margin-block-end: 0%;
+    --margin-inline-start: 0%;
+    --margin-inline-end: 0%;
+    --padding-block-start: 0px;
+    --padding-block-end: 0px;
+    --padding-inline-start: 0px;
+    --padding-inline-end: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-b784a41 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-b784a41.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-8 .elementor-element.elementor-element-b9641df {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --gap: 20px 20px;
+    --background-transition: 0.3s;
+    --padding-block-start: 0px;
+    --padding-block-end: 0px;
+    --padding-inline-start: 0px;
+    --padding-inline-end: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-b9641df.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-8 .elementor-element.elementor-element-ebd709b {
+    text-align: left;
+}
+
+.elementor-8 .elementor-element.elementor-element-ebd709b .elementor-heading-title {
+    color: #000000;
+    font-family: "Skranji", Sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.elementor-8 .elementor-element.elementor-element-93b10d3 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: flex-start;
+    --align-items: center;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 1px 1px 6px 1px;
+    --border-block-start-width: 1px;
+    --border-inline-end-width: 1px;
+    --border-block-end-width: 6px;
+    --border-inline-start-width: 1px;
+    border-color: #000000;
+    --border-color: #000000;
+    --border-radius: 20px 20px 20px 20px;
+    box-shadow: 0px -10px 10px 5px rgba(0, 0, 0, 0.44) inset;
+    --padding-block-start: 10px;
+    --padding-block-end: 10px;
+    --padding-inline-start: 10px;
+    --padding-inline-end: 10px;
+}
+
+.elementor-8 .elementor-element.elementor-element-93b10d3:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-93b10d3>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFFFC;
+}
+
+.elementor-8 .elementor-element.elementor-element-93b10d3,
+.elementor-8 .elementor-element.elementor-element-93b10d3::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-4c50197 img {
+    width: 75%;
+}
+
+.elementor-8 .elementor-element.elementor-element-4c50197>.elementor-widget-container {
+    margin: -5px 0px 0px 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-4c50197 {
+    width: var( --container-widget-width, 5%);
+    max-width: 5%;
+    --container-widget-width: 5%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-8 .elementor-element.elementor-element-5fb65b0 {
+    text-align: left;
+    width: var( --container-widget-width, 100%);
+    max-width: 100%;
+    --container-widget-width: 100%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-8 .elementor-element.elementor-element-5fb65b0 .elementor-heading-title {
+    color: #000000AD;
+    font-family: "Skranji", Sans-serif;
+    font-size: 13px;
+    font-weight: 100;
+}
+
+.elementor-8 .elementor-element.elementor-element-5fb65b0.elementor-element {
+    --align-self: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-16c0a30 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: center;
+    --align-items: center;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-2c3747d {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-d5b01b4 img {
+    width: 100%;
+}
+
+.elementor-8 .elementor-element.elementor-element-d6585bd {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-6a4a89f {
+    text-align: left;
+}
+
+.elementor-8 .elementor-element.elementor-element-6a4a89f .elementor-heading-title {
+    color: #000000;
+    font-family: "Skranji", Sans-serif;
+    font-size: 41px;
+    font-weight: 600;
+}
+
+.elementor-8 .elementor-element.elementor-element-6753ccb .elementor-repeater-item-51e3ae3.elementor-social-icon {
+    background-color: darkblue;
+}
+
+.elementor-8 .elementor-element.elementor-element-6753ccb {
+    --grid-template-columns: repeat(0, auto);
+    --icon-size: 30px;
+    --grid-column-gap: 5px;
+    --grid-row-gap: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-6753ccb .elementor-widget-container {
+    text-align: left;
+}
+
+.elementor-8 .elementor-element.elementor-element-6753ccb .elementor-social-icon {
+    background-color: darkblue;
+}
+
+.elementor-8 .elementor-element.elementor-element-6e5215a {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-9b467c1 {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-9b467c1 .elementor-heading-title {
+    color: #000000AD;
+    font-family: "Skranji", Sans-serif;
+    font-size: 12px;
+    font-weight: 200;
+}
+
+body.elementor-page-8:not(.elementor-motion-effects-element-type-background),
+body.elementor-page-8>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #00DAFF 0%, #FFFFFF 100%);
+}
+
+@media(max-width:1024px) {
+    .elementor-8 .elementor-element.elementor-element-9b43c3d {
+        --grid-auto-flow: row;
+    }
+    .elementor-8 .elementor-element.elementor-element-2430008>.elementor-widget-container {
+        --e-transform-scale: 1;
+    }
+    .elementor-8 .elementor-element.elementor-element-f6832e2 {
+        --grid-auto-flow: row;
+    }
+    .elementor-8 .elementor-element.elementor-element-7c5a170 {
+        --grid-auto-flow: row;
+    }
+    .elementor-8 .elementor-element.elementor-element-95ac229 {
+        --grid-auto-flow: row;
+    }
+}
+
+@media(min-width:768px) {
+    .elementor-8 .elementor-element.elementor-element-6bfbb3f {
+        --content-width: 1140px;
+    }
+    .elementor-8 .elementor-element.elementor-element-f234b63 {
+        --width: 19.938%;
+    }
+    .elementor-8 .elementor-element.elementor-element-223e9b9 {
+        --width: 55.793%;
+    }
+    .elementor-8 .elementor-element.elementor-element-ad90011 {
+        --width: 50%;
+    }
+    .elementor-8 .elementor-element.elementor-element-1a1515a {
+        --width: 50%;
+    }
+    .elementor-8 .elementor-element.elementor-element-5526270 {
+        --width: 53.578%;
+    }
+    .elementor-8 .elementor-element.elementor-element-22f7bef {
+        --content-width: 1140px;
+    }
+    .elementor-8 .elementor-element.elementor-element-f4bc87e {
+        --width: 49.956%;
+    }
+    .elementor-8 .elementor-element.elementor-element-966a3a9 {
+        --width: 25%;
+    }
+    .elementor-8 .elementor-element.elementor-element-113f424 {
+        --width: 25%;
+    }
+    .elementor-8 .elementor-element.elementor-element-b784a41 {
+        --width: 50%;
+    }
+    .elementor-8 .elementor-element.elementor-element-b9641df {
+        --width: 50%;
+    }
+    .elementor-8 .elementor-element.elementor-element-2c3747d {
+        --width: 33.3333%;
+    }
+    .elementor-8 .elementor-element.elementor-element-d6585bd {
+        --width: 66.6666%;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-8 .elementor-element.elementor-element-6bfbb3f {
+        --margin-block-start: 7%;
+        --margin-block-end: 0%;
+        --margin-inline-start: 0%;
+        --margin-inline-end: 0%;
+        --padding-block-start: 20px;
+        --padding-block-end: 20px;
+        --padding-inline-start: 20px;
+        --padding-inline-end: 20px;
+    }
+    .elementor-8 .elementor-element.elementor-element-81f4d39 {
+        --content-width: 500px;
+        --gap: 0px 0px;
+        --flex-wrap: nowrap;
+        --padding-block-start: 10px;
+        --padding-block-end: 10px;
+        --padding-inline-start: 10px;
+        --padding-inline-end: 10px;
+    }
+    .elementor-8 .elementor-element.elementor-element-f234b63 {
+        --width: 30%;
+        --gap: 0px 0px;
+        --padding-block-start: 0px;
+        --padding-block-end: 0px;
+        --padding-inline-start: 0px;
+        --padding-inline-end: 0px;
+    }
+    .elementor-8 .elementor-element.elementor-element-18d812d {
+        --icon-size: 19px;
+    }
+    .elementor-8 .elementor-element.elementor-element-18d812d .elementor-social-icon {
+        border-width: 1px 1px 4px 3px;
+    }
+    .elementor-8 .elementor-element.elementor-element-223e9b9 {
+        --width: 40%;
+    }
+    .elementor-8 .elementor-element.elementor-element-ad91c88>.elementor-widget-container {
+        margin: -40% 0% -40% 0%;
+    }
+    .elementor-8 .elementor-element.elementor-element-ad91c88 {
+        --container-widget-width: 100px;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 100px);
+        max-width: 100px;
+    }
+    .elementor-8 .elementor-element.elementor-element-46838cf {
+        --content-width: 100%;
+        --padding-block-start: 0px;
+        --padding-block-end: 0px;
+        --padding-inline-start: 0px;
+        --padding-inline-end: 0px;
+    }
+    .elementor-8 .elementor-element.elementor-element-92164fe .elementor-button {
+        font-size: 16px;
+        border-width: 1px 3px 5px 1px;
+        padding: 8px 8px 8px 8px;
+    }
+    .elementor-8 .elementor-element.elementor-element-baa6055 {
+        text-align: center;
+    }
+    .elementor-8 .elementor-element.elementor-element-baa6055 .elementor-heading-title {
+        font-size: 59px;
+        -webkit-text-stroke-width: 5px;
+        stroke-width: 5px;
+    }
+    .elementor-8 .elementor-element.elementor-element-c7b35ff {
+        --content-width: 80%;
+        --flex-direction: column;
+        --container-widget-width: 100%;
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --gap: 10px 10px;
+    }
+    .elementor-8 .elementor-element.elementor-element-80b6bfe .elementor-button {
+        font-size: 16px;
+        border-width: 1px 3px 5px 1px;
+        padding: 20px 20px 20px 20px;
+    }
+    .elementor-8 .elementor-element.elementor-element-24eaf5f .elementor-button {
+        font-size: 16px;
+        border-width: 1px 3px 5px 1px;
+        padding: 20px 20px 20px 20px;
+    }
+    .elementor-8 .elementor-element.elementor-element-586b445>.elementor-widget-container {
+        margin: -20% 0% 0% 0%;
+        --e-transform-scale: 1.4;
+    }
+    .elementor-8 .elementor-element.elementor-element-95332e8 {
+        --margin-block-start: 14%;
+        --margin-block-end: 0%;
+        --margin-inline-start: 0%;
+        --margin-inline-end: 0%;
+    }
+    .elementor-8 .elementor-element.elementor-element-31bdccc {
+        --content-width: 500px;
+        --flex-direction: column;
+        --container-widget-width: 100%;
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --gap: 0px 0px;
+        --flex-wrap: nowrap;
+        --padding-block-start: 10px;
+        --padding-block-end: 10px;
+        --padding-inline-start: 10px;
+        --padding-inline-end: 10px;
+    }
+    .elementor-8 .elementor-element.elementor-element-32275a8 {
+        text-align: center;
+    }
+    .elementor-8 .elementor-element.elementor-element-32275a8 .elementor-heading-title {
+        font-size: 36px;
+    }
+    .elementor-8 .elementor-element.elementor-element-3ed9738 {
+        text-align: center;
+    }
+    .elementor-8 .elementor-element.elementor-element-8e29989 .elementor-button {
+        font-size: 16px;
+        border-width: 1px 3px 5px 1px;
+        padding: 20px 20px 20px 20px;
+    }
+    .elementor-8 .elementor-element.elementor-element-8e29989 {
+        --container-widget-width: 1000px;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 1000px);
+        max-width: 1000px;
+    }
+    .elementor-8 .elementor-element.elementor-element-521c10e {
+        text-align: center;
+    }
+    .elementor-8 .elementor-element.elementor-element-521c10e .elementor-heading-title {
+        font-size: 19px;
+    }
+    .elementor-8 .elementor-element.elementor-element-521c10e>.elementor-widget-container {
+        margin: 10% 0% 0% 0%;
+    }
+    .elementor-8 .elementor-element.elementor-element-c0474a0 .elementor-countdown-digits {
+        font-size: 27px;
+    }
+    .elementor-8 .elementor-element.elementor-element-3823a9f {
+        text-align: center;
+    }
+    .elementor-8 .elementor-element.elementor-element-3823a9f .elementor-heading-title {
+        font-size: 36px;
+    }
+    .elementor-8 .elementor-element.elementor-element-9b43c3d {
+        --e-con-grid-template-columns: repeat(2, 1fr);
+        --gap: 30px 30px;
+        --grid-auto-flow: row;
+    }
+    .elementor-8 .elementor-element.elementor-element-2430008>.elementor-widget-container {
+        --e-transform-scale: 1;
+    }
+    .elementor-8 .elementor-element.elementor-element-a1a011e img {
+        width: 17%;
+    }
+    .elementor-8 .elementor-element.elementor-element-a1a011e>.elementor-widget-container {
+        margin: 0px 0px 10px 0px;
+    }
+    .elementor-8 .elementor-element.elementor-element-f1dbc36 {
+        text-align: center;
+    }
+    .elementor-8 .elementor-element.elementor-element-f1dbc36 .elementor-heading-title {
+        font-size: 28px;
+    }
+    .elementor-8 .elementor-element.elementor-element-55c4685 {
+        text-align: center;
+        --container-widget-width: 582px;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 582px);
+        max-width: 582px;
+    }
+    .elementor-8 .elementor-element.elementor-element-55c4685 .elementor-heading-title {
+        font-size: 17px;
+        line-height: 2em;
+    }
+    .elementor-8 .elementor-element.elementor-element-f6832e2 {
+        --e-con-grid-template-columns: repeat(2, 1fr);
+        --grid-auto-flow: row;
+    }
+    .elementor-8 .elementor-element.elementor-element-99adfa3 {
+        --content-width: 500px;
+        --flex-direction: column;
+        --container-widget-width: 100%;
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --gap: 0px 0px;
+        --flex-wrap: nowrap;
+        --padding-block-start: 10px;
+        --padding-block-end: 10px;
+        --padding-inline-start: 10px;
+        --padding-inline-end: 10px;
+    }
+    .elementor-8 .elementor-element.elementor-element-b120a90 {
+        --e-icon-list-icon-size: 20px;
+    }
+    .elementor-8 .elementor-element.elementor-element-b120a90 .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-8 .elementor-element.elementor-element-b120a90 .elementor-icon-list-item>a {
+        font-size: 20px;
+    }
+    .elementor-8 .elementor-element.elementor-element-00e54b9>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+    .elementor-8 .elementor-element.elementor-element-d2df878 {
+        --content-width: 500px;
+        --flex-direction: column;
+        --container-widget-width: 100%;
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --gap: 0px 0px;
+        --flex-wrap: nowrap;
+        --padding-block-start: 10px;
+        --padding-block-end: 10px;
+        --padding-inline-start: 10px;
+        --padding-inline-end: 10px;
+    }
+    .elementor-8 .elementor-element.elementor-element-89e7830 {
+        --e-icon-list-icon-size: 20px;
+    }
+    .elementor-8 .elementor-element.elementor-element-89e7830 .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-8 .elementor-element.elementor-element-89e7830 .elementor-icon-list-item>a {
+        font-size: 20px;
+    }
+    .elementor-8 .elementor-element.elementor-element-b177b27 img {
+        width: 43%;
+    }
+    .elementor-8 .elementor-element.elementor-element-008a77d {
+        text-align: center;
+    }
+    .elementor-8 .elementor-element.elementor-element-008a77d .elementor-heading-title {
+        font-size: 20px;
+    }
+    .elementor-8 .elementor-element.elementor-element-ef70145>.elementor-widget-container {
+        --e-transform-scale: 1.2;
+    }
+    .elementor-8 .elementor-element.elementor-element-bf552ff {
+        text-align: center;
+    }
+    .elementor-8 .elementor-element.elementor-element-bf552ff .elementor-heading-title {
+        font-size: 27px;
+    }
+    .elementor-8 .elementor-element.elementor-element-7c5a170 {
+        --e-con-grid-template-columns: repeat(1, 1fr);
+        --grid-auto-flow: row;
+    }
+    .elementor-8 .elementor-element.elementor-element-68969ca {
+        --content-width: 500px;
+        --flex-direction: column;
+        --container-widget-width: 100%;
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --gap: 0px 0px;
+        --flex-wrap: nowrap;
+        --padding-block-start: 30px;
+        --padding-block-end: 30px;
+        --padding-inline-start: 30px;
+        --padding-inline-end: 30px;
+    }
+    .elementor-8 .elementor-element.elementor-element-ac6ebb3 {
+        text-align: center;
+    }
+    .elementor-8 .elementor-element.elementor-element-ac6ebb3 .elementor-heading-title {
+        font-size: 20px;
+    }
+    .elementor-8 .elementor-element.elementor-element-09b17f9 {
+        text-align: center;
+        --container-widget-width: 582px;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 582px);
+        max-width: 582px;
+    }
+    .elementor-8 .elementor-element.elementor-element-09b17f9 .elementor-heading-title {
+        font-size: 17px;
+        line-height: 1.3em;
+    }
+    .elementor-8 .elementor-element.elementor-element-09b17f9>.elementor-widget-container {
+        margin: 20px 0px 0px 0px;
+    }
+    .elementor-8 .elementor-element.elementor-element-62d17ef {
+        --content-width: 500px;
+        --flex-direction: column;
+        --container-widget-width: 100%;
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --gap: 0px 0px;
+        --flex-wrap: nowrap;
+        --padding-block-start: 30px;
+        --padding-block-end: 30px;
+        --padding-inline-start: 30px;
+        --padding-inline-end: 30px;
+    }
+    .elementor-8 .elementor-element.elementor-element-798b028 {
+        text-align: center;
+    }
+    .elementor-8 .elementor-element.elementor-element-798b028 .elementor-heading-title {
+        font-size: 20px;
+    }
+    .elementor-8 .elementor-element.elementor-element-f27633b {
+        text-align: center;
+        --container-widget-width: 582px;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 582px);
+        max-width: 582px;
+    }
+    .elementor-8 .elementor-element.elementor-element-f27633b .elementor-heading-title {
+        font-size: 17px;
+        line-height: 1.3em;
+    }
+    .elementor-8 .elementor-element.elementor-element-f27633b>.elementor-widget-container {
+        margin: 20px 0px 0px 0px;
+    }
+    .elementor-8 .elementor-element.elementor-element-2b1a5d8 {
+        --content-width: 500px;
+        --flex-direction: column;
+        --container-widget-width: 100%;
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --gap: 0px 0px;
+        --flex-wrap: nowrap;
+        --padding-block-start: 30px;
+        --padding-block-end: 30px;
+        --padding-inline-start: 30px;
+        --padding-inline-end: 30px;
+    }
+    .elementor-8 .elementor-element.elementor-element-f743c6b {
+        text-align: center;
+    }
+    .elementor-8 .elementor-element.elementor-element-f743c6b .elementor-heading-title {
+        font-size: 20px;
+    }
+    .elementor-8 .elementor-element.elementor-element-25df3ff {
+        text-align: center;
+        --container-widget-width: 582px;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 582px);
+        max-width: 582px;
+    }
+    .elementor-8 .elementor-element.elementor-element-25df3ff .elementor-heading-title {
+        font-size: 17px;
+        line-height: 1.3em;
+    }
+    .elementor-8 .elementor-element.elementor-element-25df3ff>.elementor-widget-container {
+        margin: 20px 0px 0px 0px;
+    }
+    .elementor-8 .elementor-element.elementor-element-4a6831b {
+        --content-width: 500px;
+        --flex-direction: column;
+        --container-widget-width: 100%;
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --gap: 0px 0px;
+        --flex-wrap: nowrap;
+        --padding-block-start: 30px;
+        --padding-block-end: 30px;
+        --padding-inline-start: 30px;
+        --padding-inline-end: 30px;
+    }
+    .elementor-8 .elementor-element.elementor-element-ccbbd42 {
+        text-align: center;
+    }
+    .elementor-8 .elementor-element.elementor-element-ccbbd42 .elementor-heading-title {
+        font-size: 20px;
+    }
+    .elementor-8 .elementor-element.elementor-element-a3d61a4 {
+        text-align: center;
+        --container-widget-width: 582px;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 582px);
+        max-width: 582px;
+    }
+    .elementor-8 .elementor-element.elementor-element-a3d61a4 .elementor-heading-title {
+        font-size: 17px;
+        line-height: 1.3em;
+    }
+    .elementor-8 .elementor-element.elementor-element-a3d61a4>.elementor-widget-container {
+        margin: 20px 0px 0px 0px;
+    }
+    .elementor-8 .elementor-element.elementor-element-e4c04a4 {
+        text-align: center;
+    }
+    .elementor-8 .elementor-element.elementor-element-e4c04a4 .elementor-heading-title {
+        font-size: 35px;
+    }
+    .elementor-8 .elementor-element.elementor-element-95ac229 {
+        --e-con-grid-template-columns: repeat(1, 1fr);
+        --grid-auto-flow: row;
+        --margin-block-start: -20%;
+        --margin-block-end: 0%;
+        --margin-inline-start: 0%;
+        --margin-inline-end: 0%;
+    }
+    .elementor-8 .elementor-element.elementor-element-8d2d2b0 {
+        text-align: center;
+    }
+    .elementor-8 .elementor-element.elementor-element-8d2d2b0 .elementor-heading-title {
+        font-size: 30px;
+    }
+    .elementor-8 .elementor-element.elementor-element-bc27cc8 {
+        text-align: center;
+    }
+    .elementor-8 .elementor-element.elementor-element-bc27cc8 .elementor-heading-title {
+        font-size: 26px;
+    }
+    .elementor-8 .elementor-element.elementor-element-ee6af30 {
+        --margin-block-start: 50px;
+        --margin-block-end: -70px;
+        --margin-inline-start: 0px;
+        --margin-inline-end: 0px;
+        --padding-block-start: 20px;
+        --padding-block-end: 20px;
+        --padding-inline-start: 20px;
+        --padding-inline-end: 20px;
+    }
+    .elementor-8 .elementor-element.elementor-element-f4bc87e.e-con {
+        --order: -99999/* order start hack */
+        ;
+    }
+    .elementor-8 .elementor-element.elementor-element-ef90ad5 img {
+        border-radius: 5000px 5000px 5000px 5000px;
+    }
+    .elementor-8 .elementor-element.elementor-element-ef90ad5>.elementor-widget-container {
+        margin: -35% 0% -25% 0%;
+    }
+    .elementor-8 .elementor-element.elementor-element-ef90ad5:not( .elementor-widget-image) .elementor-widget-container {
+        -webkit-mask-size: 219px;
+    }
+    .elementor-8 .elementor-element.elementor-element-ef90ad5.elementor-widget-image .elementor-widget-container img {
+        -webkit-mask-size: 219px;
+    }
+    .elementor-8 .elementor-element.elementor-element-966a3a9 {
+        --flex-direction: row;
+        --container-widget-width: initial;
+        --container-widget-height: 100%;
+        --container-widget-flex-grow: 1;
+        --container-widget-align-self: stretch;
+        --flex-wrap: wrap;
+        --margin-block-start: 50px;
+        --margin-block-end: 0px;
+        --margin-inline-start: 0px;
+        --margin-inline-end: 0px;
+    }
+    .elementor-8 .elementor-element.elementor-element-da82db5 {
+        text-align: center;
+        font-size: 17px;
+        line-height: 1.3em;
+        --container-widget-width: 582px;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 582px);
+        max-width: 582px;
+    }
+    .elementor-8 .elementor-element.elementor-element-da82db5>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+    .elementor-8 .elementor-element.elementor-element-e4ddd47 {
+        text-align: center;
+        font-size: 17px;
+        line-height: 1.3em;
+        --container-widget-width: 582px;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 582px);
+        max-width: 582px;
+    }
+    .elementor-8 .elementor-element.elementor-element-e4ddd47>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+    .elementor-8 .elementor-element.elementor-element-e909998 {
+        text-align: center;
+        font-size: 17px;
+        line-height: 1.3em;
+        --container-widget-width: 582px;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 582px);
+        max-width: 582px;
+    }
+    .elementor-8 .elementor-element.elementor-element-e909998>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+    .elementor-8 .elementor-element.elementor-element-e270298 {
+        text-align: center;
+        font-size: 17px;
+        line-height: 1.3em;
+        --container-widget-width: 582px;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 582px);
+        max-width: 582px;
+    }
+    .elementor-8 .elementor-element.elementor-element-e270298>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+    .elementor-8 .elementor-element.elementor-element-09e30e9 {
+        --margin-block-start: 0px;
+        --margin-block-end: -70px;
+        --margin-inline-start: 0px;
+        --margin-inline-end: 0px;
+        --padding-block-start: 20px;
+        --padding-block-end: 20px;
+        --padding-inline-start: 20px;
+        --padding-inline-end: 20px;
+    }
+    .elementor-8 .elementor-element.elementor-element-b784a41.e-con {
+        --order: -99999/* order start hack */
+        ;
+    }
+    .elementor-8 .elementor-element.elementor-element-ebd709b {
+        text-align: center;
+    }
+    .elementor-8 .elementor-element.elementor-element-ebd709b .elementor-heading-title {
+        font-size: 17px;
+    }
+    .elementor-8 .elementor-element.elementor-element-93b10d3 {
+        --content-width: 500px;
+        --flex-direction: column;
+        --container-widget-width: 100%;
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+        --gap: 0px 0px;
+        --flex-wrap: nowrap;
+        --padding-block-start: 30px;
+        --padding-block-end: 30px;
+        --padding-inline-start: 30px;
+        --padding-inline-end: 30px;
+    }
+    .elementor-8 .elementor-element.elementor-element-4c50197 {
+        text-align: left;
+        --container-widget-width: 100%;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 100%);
+        max-width: 100%;
+    }
+    .elementor-8 .elementor-element.elementor-element-4c50197 img {
+        width: 8%;
+    }
+    .elementor-8 .elementor-element.elementor-element-4c50197>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+    .elementor-8 .elementor-element.elementor-element-5fb65b0 {
+        text-align: right;
+        --container-widget-width: 582px;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 582px);
+        max-width: 582px;
+    }
+    .elementor-8 .elementor-element.elementor-element-5fb65b0 .elementor-heading-title {
+        font-size: 9px;
+        line-height: 1.3em;
+    }
+    .elementor-8 .elementor-element.elementor-element-5fb65b0>.elementor-widget-container {
+        margin: -15px 0px 0px 0px;
+    }
+    .elementor-8 .elementor-element.elementor-element-d5b01b4>.elementor-widget-container {
+        margin: 0% 0% -10% 0%;
+    }
+    .elementor-8 .elementor-element.elementor-element-6a4a89f {
+        text-align: center;
+    }
+    .elementor-8 .elementor-element.elementor-element-6a4a89f .elementor-heading-title {
+        font-size: 33px;
+    }
+    .elementor-8 .elementor-element.elementor-element-6a4a89f>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+    .elementor-8 .elementor-element.elementor-element-6753ccb .elementor-widget-container {
+        text-align: center;
+    }
+    .elementor-8 .elementor-element.elementor-element-6e5215a {
+        --margin-block-start: 020%;
+        --margin-block-end: 0%;
+        --margin-inline-start: 0%;
+        --margin-inline-end: 0%;
+    }
+    .elementor-8 .elementor-element.elementor-element-9b467c1 {
+        text-align: center;
+    }
+    .elementor-8 .elementor-element.elementor-element-9b467c1 .elementor-heading-title {
+        font-size: 12px;
+    }
+}
+
+/* Start custom CSS for social-icons, class: .elementor-element-18d812d */
+
+.elementor-8 .elementor-element.elementor-element-18d812d .elementor-social-icon background-color: transparent;
+background-image: linear-gradient(243deg, #ffffff 0%, #00DAFF 100%);
+}
+
+/* End custom CSS */
